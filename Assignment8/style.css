@@ -1,0 +1,58 @@
+body{
+    background-image: url(https://images.pexels.com/photos/9176123/pexels-photo-9176123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+   text-align: center;
+   background-size: cover;
+}
+marquee{
+    font-size: 36px;
+}
+
+.size{
+    height: 40px;
+   padding:8px 12px;
+}
+
+
+input[type=text] {
+    border:2px solid greenyellow;
+   
+    border-radius: 6px;
+  }
+ 
+  input[type=text]:hover {
+  background-color: rgb(232, 216, 34);
+  }
+ 
+    .font{
+        color: rgb(194, 121, 26);
+      font-style: oblique;
+      font-size: 29px;
+    }
+    .decor{
+        border: 3px solid greenyellow;
+        border-radius: 50%;
+        color: black;
+        padding: 15px 30px;
+    }
+   .decor:hover{
+        background-color: rgb(232, 216, 34);
+
+    }
+    #label1{
+        font-size: 21px;
+        color: rgb(196, 116, 10);
+    }
+    .decor:active{
+        transform: scale(0.6);}
+        .flex{
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+        
+
+        }
+
+    
+
+  
+
